@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaraAbdelAziz8
 - 👀 I’m interested in Applications development 
 - 🌱 I’m currently learning flutter
-- 📫 How to reach me ...
+- 📫 How to reach me  sara3alaa28@gmail.com
 
 <!---
 SaraAbdelAziz8/SaraAbdelAziz8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
