@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SaraAbdelAziz8
-- 👀 I’m interested in Applications development 
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in Testing
 - 📫 How to reach me  sara3alaa28@gmail.com
 
 <!---
